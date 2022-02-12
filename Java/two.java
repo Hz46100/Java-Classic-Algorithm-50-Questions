@@ -26,8 +26,6 @@ public class two {
             } else {
                 System.out.println(j + "该数不是素数");
             }
-
         }
-
     }
 }
