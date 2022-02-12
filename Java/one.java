@@ -1,9 +1,6 @@
 package Java;
-
 /*题：1
-  题目：古典问题：有一对兔子，从出生后第3个月起每个月都生一对兔子，小兔子长到第三个月后每个月又生一对兔子，假如兔子都不死，问每个月的兔子总数为多少？
-*/
-/**
+   题目：古典问题：有一对兔子，从出生后第3个月起每个月都生一对兔子，小兔子长到第三个月后每个月又生一对兔子，假如兔子都不死，问每个月的兔子总数为多少？
  * Question: 1 Topic: Classical problem: There is a pair of rabbits. From the
  * 3rd month after birth, a pair of rabbits is born every month. After the
  * little rabbit grows to the third month, another pair of rabbits is born every

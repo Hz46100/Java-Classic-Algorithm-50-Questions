@@ -1,13 +1,11 @@
 package Java;
-
 import java.util.*;
-
 public class two {
     public static void main(String[] args) {
         /**
          * 题：2 判断101-200之间有多少个素数，并输出所有素数
-         *
-         * /** Question: 2 Determine how many prime numbers there are between 101-200,
+         * Question: 2
+         * Determine how many prime numbers there are between 101-200,
          * and output all prime numbers.
          */
         Scanner sc = new Scanner(System.in);
