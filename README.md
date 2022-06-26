@@ -4,9 +4,6 @@
 
 personal practice of learning java
 
-## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
 ### Prerequisites
 
 You need to install code editor as well as java
