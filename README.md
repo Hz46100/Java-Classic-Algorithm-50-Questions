@@ -1,5 +1,4 @@
 
-
 # Java-Classic-Algorithm-50-Questions
 
 personal practice of learning java
@@ -7,8 +6,6 @@ personal practice of learning java
 ### Prerequisites
 
 You need to install code editor as well as java
-
-
 
 ## Authors
 
