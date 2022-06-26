@@ -30,8 +30,3 @@ You need to install code editor as well as java
 
 This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/Hz46100/Java-Classic-Algorithm-50-Questions/blob/main/LICENSE) file for details
 
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
